@@ -1,3 +1,4 @@
 Gitの練習
 aaaabbbbbcccc
 git rm やりかた
+git status 確認中
